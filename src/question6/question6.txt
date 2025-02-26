@@ -21,4 +21,4 @@ posts-mapp under pages.
 
 4. Visa post-data på den dynamiska sidan, inklusive titel och innehåll.
 
-Skriv länken till ditt repo med svaret här:
+Skriv länken till ditt repo med svaret här: It's here in this project, in this folder: src/question6/next-js-project/
